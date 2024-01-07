@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Classe Header
+ * 
+ * Representa el header de la pàgina HTML
+ * 
+ * @author Patryk
+ * @version 1.0
+ */
+
 class Header {
     
     // Método para mostrar el encabezado

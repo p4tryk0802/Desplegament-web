@@ -3,6 +3,15 @@
 require_once('Connexio.php');
 require_once('Header.php');
 
+/**
+ * Classe Principal
+ * 
+ * Utilitzada per mostrar els productes disponibles
+ * 
+ * @author Patryk
+ * @version 1.0
+ */
+
 class Principal {
     
     // Método para mostrar la lista de productos

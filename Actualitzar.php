@@ -3,6 +3,15 @@
 // Incluye el archivo de conexión
 require_once('Connexio.php');
 
+/**
+ * Classe Actualitzar
+ * 
+ * Utilitzada per actualizar un producte dins la base de dades
+ * 
+ * @author Patryk
+ * @version 1.0
+ */
+
 class Actualitzar {
     
     // Método para actualizar un producto en la base de datos

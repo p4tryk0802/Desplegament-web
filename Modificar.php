@@ -3,6 +3,15 @@
 require_once('Connexio.php');
 require_once('Header.php');
 
+/**
+ * Classe Actualitzar
+ * 
+ * Utilitzada per mostrar el formulari de modificació del producte
+ * 
+ * @author Patryk
+ * @version 1.0
+ */
+
 class Modificar {
 
     // Método para mostrar el formulario de modificación del producto

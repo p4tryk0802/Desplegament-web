@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * Classe Footer
+ * 
+ * Representa el footer de la pàgina HTML
+ * 
+ * @author Patryk
+ * @version 1.0
+ */
+
 class Footer {
 
    // Método para mostrar el pie de página
